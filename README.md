@@ -9,13 +9,7 @@
   Exploring technology, building projects, and turning ideas into reality.
 </p>
 
-<p align="center">
-  <a href="https://github.com/naishanayousaf">
-    <img src="https://komarev.com/ghpvc/?username=naishanayousaf&style=flat-square&color=blueviolet" alt="Profile Views" />
-  </a>
-</p>
 
----
 
 ### ✨ About Me
 
@@ -59,9 +53,6 @@ BCA Honours student at Rajagiri College of Management & Applied Sciences.
   - Exploring web technologies to create interactive and user-friendly applications.
   - Tech: HTML, CSS, JavaScript
 
-> Replace these descriptions with links to your actual repositories once the projects are published.
-
----
 
 
 
