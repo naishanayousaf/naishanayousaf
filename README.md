@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blueviolet" alt="Profile Views" />
+  <a href="https://github.com/naishanayousaf">
+    <img src="https://komarev.com/ghpvc/?username=naishanayousaf&style=flat-square&color=blueviolet" alt="Profile Views" />
   </a>
 </p>
 
