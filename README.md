@@ -19,15 +19,13 @@
 
 ### ✨ About Me
 
-- 🎓 Pursuing **BCA Honours** at Rajagiri College of Management & Applied Sciences.
-- 💻 Interested in **software development, artificial intelligence, and machine learning**.
-- ☁️ Exploring cloud computing and modern technologies.
-- 🛠️ Enjoy building projects that combine creativity with problem-solving.
-- 📚 Currently strengthening my programming skills and exploring new tools.
-- 🎯 Goal: Become a skilled software developer and build impactful technology products.
-- 🌱 Always learning. Always building. Always improving.
-
----
+BCA Honours student at Rajagiri College of Management & Applied Sciences.
+- 💻 Aspiring software developer passionate about building practical solutions.
+- 🔐 Exploring cybersecurity, ethical hacking, and digital security.
+- 🤖 Interested in Artificial Intelligence & Machine Learning.
+- ☁️ Learning about cloud computing and secure systems.
+- 🛠️ Building projects to strengthen my programming and problem-solving skills.
+- 🎯 Long-term goal: Develop innovative technology products and contribute to a more secure digital world.
 
 ### 💻 Tech Stack
 
