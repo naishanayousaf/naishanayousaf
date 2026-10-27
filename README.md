@@ -1,13 +1,14 @@
-Hi, I'm Naishana Yousaf 👋
-BCA Honours Student · Software Developer · Cybersecurity Enthusiast · Tech Explorer
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-</p>
+ Hi, I'm Naishana Yousaf
 
+BCA Honours Student · Software Developer · Cybersecurity Enthusiast · Tech Explorer
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-172554?style=for-the-badge&logo=openjdk&logoColor=BFDBFE"/>
+  <img src="https://img.shields.io/badge/Python-312E81?style=for-the-badge&logo=python&logoColor=DDD6FE"/>
+  <img src="https://img.shields.io/badge/JavaScript-1E3A8A?style=for-the-badge&logo=javascript&logoColor=FEF08A"/>
+  <img src="https://img.shields.io/badge/MySQL-1E40AF?style=for-the-badge&logo=mysql&logoColor=DBEAFE"/>
+  <img src="https://img.shields.io/badge/Flask-4338CA?style=for-the-badge&logo=flask&logoColor=E0E7FF"/>
+</p>
 ### About Me
 
 BCA Honours student at Rajagiri College of Management & Applied Sciences.
