@@ -9,6 +9,7 @@ BCA Honours Student · Software Developer · Cybersecurity Enthusiast · Tech Ex
   <img src="https://img.shields.io/badge/MySQL-1E40AF?style=for-the-badge&logo=mysql&logoColor=DBEAFE"/>
   <img src="https://img.shields.io/badge/Flask-4338CA?style=for-the-badge&logo=flask&logoColor=E0E7FF"/>
 </p>
+
 ### About Me
 
 BCA Honours student at Rajagiri College of Management & Applied Sciences.
