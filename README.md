@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/BCA_Honours-5th_Semester-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Rajagiri_College-Kochi-111827?style=for-the-badge" />
+ 
   <img src="https://img.shields.io/badge/Software-Development-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%2FML-Exploring-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cybersecurity-Exploring-111827?style=for-the-badge" />
