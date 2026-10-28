@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,50:0F1E4D,100:1F44D6&text=Naishana%20Yousaf&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Aspiring%20Software%20Developer&descSize=15&descAlignY=56&descColor=C7D2FE&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B0B0B,50:25211A,100:6B5A3C&text=Naishana%20Yousaf&fontColor=FFFFFF&fontSize=52&fontAlignY=50&font=Montserrat&animation=fadeIn" width="100%"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/BCA_Honours-5th_Semester-111827?style=for-the-badge" />
@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/AI%2FML-Exploring-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cybersecurity-Exploring-111827?style=for-the-badge" />
 </p>
+
 ### About Me
 
 BCA Honours student at Rajagiri College of Management & Applied Sciences.
