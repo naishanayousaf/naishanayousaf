@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:E9E4F5,50:D8E2F3,100:C9D6EA&text=Naishana%20Yousaf&fontColor=252A34&fontSize=52&fontAlignY=50&font=Montserrat&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:9BAED8,50:B7A9D6,100:8FA8C8&text=Naishana%20Yousaf&fontColor=FFFFFF&fontSize=52&fontAlignY=50&font=Montserrat&animation=fadeIn" width="100%"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/BCA_Honours-5th_Semester-111827?style=for-the-badge" />
@@ -19,7 +19,7 @@ BCA Honours student at Rajagiri College of Management & Applied Sciences.
 -  Building projects to strengthen my programming and problem-solving skills.
 -  Long-term goal: Develop innovative technology products and contribute to a more secure digital world.
 
-### 💻 Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -37,7 +37,7 @@ BCA Honours student at Rajagiri College of Management & Applied Sciences.
 
 
 
-### 🧠 Currently Exploring
+### Currently Exploring
 
 - Artificial Intelligence & Machine Learning
 - Data Science and predictive modelling
@@ -47,7 +47,7 @@ BCA Honours student at Rajagiri College of Management & Applied Sciences.
 
 ---
 
-### 🤝 Let's Connect
+### Let's Connect
 
 <p>
   <a href="https://www.linkedin.com/in/naishanayousaf">
