@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" height="320" alt="About Me" src="https://github.com/user-attachments/assets/fe62dd66-ad1e-4951-8704-802a572bb147" />
+  <img width="1000" height="320" alt="About Me" src="https://github.com/user-attachments/assets/fe62dd66-ad1e-4951-8704-802a572bb147" />
 </p>
 
 ### Tech Stack
