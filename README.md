@@ -9,15 +9,9 @@
   <img src="https://img.shields.io/badge/Cybersecurity-Exploring-111827?style=for-the-badge" />
 </p>
 
-### About Me
-
-BCA Honours student at Rajagiri College of Management & Applied Sciences.
--  Aspiring software developer passionate about building practical solutions.
--  Exploring cybersecurity, ethical hacking, and digital security.
--  Interested in Artificial Intelligence & Machine Learning.
--  Learning about cloud computing and secure systems.
--  Building projects to strengthen my programming and problem-solving skills.
--  Long-term goal: Develop innovative technology products and contribute to a more secure digital world.
+<p align="center">
+  <img src="./about (2).svg" alt="About Me" width="800">
+</p>
 
 ### Tech Stack
 
