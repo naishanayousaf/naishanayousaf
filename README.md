@@ -2,7 +2,9 @@
 
 BCA Honours Student · Software Developer · Cybersecurity Enthusiast · Tech Explorer
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,50:0F1E4D,100:1F44D6&text=Naishana%20Yousaf&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Aspiring%20Software%20Developer&descSize=15&descAlignY=56&descColor=C7D2FE&animation=fadeIn" width="100%"/>
+</p>
 
 ### About Me
 
