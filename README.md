@@ -1,4 +1,4 @@
-<img width="800" height="320" alt="about (2)" src="https://github.com/user-attachments/assets/fe62dd66-ad1e-4951-8704-802a572bb147" />
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:A99BC7,50:9B9FD0,100:829BC5&text=Naishana%20Yousaf&fontColor=FFFFFF&fontSize=52&fontAlignY=50&font=Montserrat&animation=fadeIn" width="100%"/>
 </p>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  
+  <img width="800" height="320" alt="about (2)" src="https://github.com/user-attachments/assets/fe62dd66-ad1e-4951-8704-802a572bb147" />
   <svg xmlns="http://www.w3.org/2000/svg" width="800" height="320" viewBox="0 0 800 320">
   <style>
     /* loopText off: render statically. */
