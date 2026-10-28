@@ -3,11 +3,15 @@
 BCA Honours Student · Software Developer · Cybersecurity Enthusiast · Tech Explorer
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-172554?style=for-the-badge&logo=openjdk&logoColor=BFDBFE"/>
-  <img src="https://img.shields.io/badge/Python-312E81?style=for-the-badge&logo=python&logoColor=DDD6FE"/>
-  <img src="https://img.shields.io/badge/JavaScript-1E3A8A?style=for-the-badge&logo=javascript&logoColor=FEF08A"/>
-  <img src="https://img.shields.io/badge/MySQL-1E40AF?style=for-the-badge&logo=mysql&logoColor=DBEAFE"/>
-  <img src="https://img.shields.io/badge/Flask-4338CA?style=for-the-badge&logo=flask&logoColor=E0E7FF"/>
+![header](https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0D1117,50:0F1E4D,100:1F44D6&text=Naishana%20Yousaf&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Aspiring%20Software%20Developer&descSize=15&descAlignY=56&descColor=C7D2FE&animation=fadeIn)
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BCA_Honours-5th_Semester-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Rajagiri_College-Kochi-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Software-Development-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%2FML-Exploring-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Exploring-111827?style=for-the-badge" />
 </p>
 
 ### About Me
